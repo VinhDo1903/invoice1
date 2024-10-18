@@ -21,7 +21,8 @@
     "react-scripts": "4.0.3",
     "react-table": "^7.8.0",
     "uuid": "^9.0.1",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "react-dev-utils": "^11.0.0" // Thêm module này
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
